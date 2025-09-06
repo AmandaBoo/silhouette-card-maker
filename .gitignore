@@ -15,6 +15,8 @@ game/output/*
 !game/output/EMPTY.md
 game/decklist/*
 !game/decklist/EMPTY.md
+game/archive/*
+!game/archive/EMPTY.md
 
 data
 

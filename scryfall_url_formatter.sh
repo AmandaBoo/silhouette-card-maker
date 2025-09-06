@@ -1,0 +1,1 @@
+ python3 scryfall-url-to-moxfield-format.py game/scryfall_urls/"$1".txt "$1"_output.txt

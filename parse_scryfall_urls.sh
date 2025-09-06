@@ -1,0 +1,1 @@
+ python3 parse_scryfall_urls.py game/scryfall_urls/"$1".txt "$1"_output.txt

@@ -1,3 +1,5 @@
+# Ignore scryfall_urls folder
+scryfall_urls/
 .DS_Store
 
 venv

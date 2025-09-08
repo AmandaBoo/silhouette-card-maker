@@ -1,3 +1,11 @@
+## Misc Supploes
+- 3 cutting mats
+- 3-4 sticky notes
+- 1 cermaic xacto knife
+- 1 cutting mat 
+- 1 scissors
+- pen
+
 ## Single Sided Cards
 1. create .txt file in decklist folder in moxfield format
 2. run moxfield.sh $filename_sans_txt_extension to query for art
@@ -13,10 +21,11 @@
 9. Cut with Force 33, Speed 20, Depth 7, Pass 3
 
 ### Notes on single sided printing
-- It takes about 3 minutes 48 seconds (50 minutes for 13 sheets)
-- 7 minutes to put the cards in laminate pouches
-- 13 minutes for the lamination machine to run
-- 30 minutes to cut (assuming no mis-cuts and practically no silhouette registration errors)
+- It takes about 3 minutes 48 seconds to print a single sheet (50 minutes for 13 sheets)
+- 4 minutes to put the cards in laminate pouches (~19 seconds a sheet)
+- 13 minutes for the lamination machine to run (1 minutes/sheet)
+- 30 minutes to cut (assuming no mis-cuts and practically no silhouette registration errors) (2 min 19 seconds/sheet)
+- 6 minutes to laminate a 104 cut cards 
 
 ## Double-sided cards (only work with 8 cards/1 page at a time)
 1. create .txt file in decklist folder in moxfield format

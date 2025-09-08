@@ -1,6 +1,7 @@
 - is there a way to prefer borderless art for a set? (especially useful for lands)
-- is there a way to get a moxfield or some compatible output for tokens?
-  - yes
-  1. find links on scryfall ie : https://scryfall.com/card/tkld/1/beast
-  2. send them into a file io parser that takes in the quantity i want, then parses the set acronyn + upper cases it, number, and name
-  3. (this is also usable for non token cards where i need to replace the art)
+- create a calculator that takes in a number of cards and then
+  - calculates the price (ink, paper, laminate, sticky notes x 4)
+  - calculates the worst case time estimate 
+    - 1/13 lamination fails
+    - 2/13 silhouette fails which trigger another reprint + laminate + silhouette flow
+    
